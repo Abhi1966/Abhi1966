@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I am Abhishek
 
-<!--
-**Abhi1966/Abhi1966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! This is Abhishek Kumar Singh. I'm a self-taught Web Designer, Python, c, and  a Student at LPU PUNJAB 🇮🇳.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning full-stack web development
+- 👨‍💻 All of my projects are available at https://myportfolio1966.vercel.app/
+- 🏛️ I am pursuing my graduation at https://www.lpu.in/
+- 💬 Ask me about Web Development, Python and c
+- ⚡ Fun fact: I love painting
+- 📫 How to reach me: abhishekkumar231@lpu.in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MY WORK
+https://myportfolio1966.vercel.app/
+
+### Languages
+https://www.python.org/ , https://www.cprogramming.com/ ,https://developer.mozilla.org/en-US/docs/Web/HTML , https://developer.mozilla.org/en-US/docs/Web/JavaScript , https://developer.mozilla.org/en-US/docs/Web/CSS
+
+ https://www.linkedin.com/in/abhishek-kumar-singh-a7722a276/ ,
+
+ ### CONNECT WITH ME :
+ https://www.linkedin.com/in/abhishek-kumar-singh-a7722a276/ , https://www.instagram.com/abhishek190606/
+
+
