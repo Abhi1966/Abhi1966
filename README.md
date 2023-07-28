@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhi1966/Abhi1966/blob/main/ABHISHEK%20KR%20SINGH%201.png)
+<!-- ![logo](https://github.com/Abhi1966/Abhi1966/blob/main/ABHISHEK%20KR%20SINGH.png) -->
 <h1 align="center">Hi 👋, I'm ABHISHEK</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
