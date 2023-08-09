@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full-stack web development**
 
-- 👨‍💻 All of my projects are available at [myportfolio1966.vercel.app/](myportfolio1966.vercel.app/)
+- 👨‍💻 All of my projects are available at [myportfolio1966.vercel.app](myportfolio1966.vercel.app)
 
 - 💬 Ask me about **Web Development, Python and c**
 
