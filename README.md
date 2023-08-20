@@ -16,9 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/Abhi1966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhishek42124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-kumar-singh-a7722a276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-kumar-singh-a7722a276" height="30" width="40" /></a>
-<a href="https://twitter.com/abhishek42124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek42124" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishek190606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek190606" height="30" width="40" /></a>
+<a href="https://twitter.com/abhishek42124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek42124" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
